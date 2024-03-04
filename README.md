@@ -1,4 +1,5 @@
 # Discord: Definitive Edition
+"Experience Discord the way it was truly meant to be created."
 [A fanmade theme of a remaster for Discord].
 
 To install and apply Definitive Edition, please get a modded version of Discord. (ex. Vencord, BetterDiscord etc)
